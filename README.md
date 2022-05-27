@@ -97,7 +97,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse team for guidance
+- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+- Thanks to my peers who are always there to offer support.
 
 ## 📝 License
 
