@@ -10,8 +10,8 @@ const App = () => (
       <Navbar />
     </header>
     <Routes>
-      <Route exact path="/" element={<CountriesCountainer />} />
-      <Route path="/:country" element={<Region />} />
+      <Route path="/:country" element={<CountriesCountainer />} />
+      <Route path="/" element={<Region />} />
     </Routes>
   </Router>
 );
