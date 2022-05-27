@@ -10,6 +10,10 @@
 - JavaScripts
 - GitFlow
 
+## Video Presentation
+- [Click Here] (https://www.loom.com/share/c949d412bf1a49ff80c2cc45f5bee719)
+- [Click Here] (https://www.loom.com/share/e388d9622839441fb24c2aed1d7f747b)
+
 ## Live Demo 
 
 - [Click Here](https://hadi111jafari.github.io/covid19-tracker/)
