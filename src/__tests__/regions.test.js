@@ -40,7 +40,7 @@ describe('Check element id', () => {
 
     const action = { type: GET_REGIONS, payload: state };
     const result = regionsReducer(initialState, action);
-    const south_australia = state[0].id;
-    expect(result[0].id).toEqual(south_australia);
+    const queensland = state[0].id;
+    expect(result[0].id).toEqual(queensland);
   });
 });
