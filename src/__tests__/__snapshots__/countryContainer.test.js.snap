@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render App Assert snapshot 1`] = `
+Array [
+  <header>
+    <nav>
+      <div
+        className="arrowanddate"
+      >
+        <a
+          aria-current="page"
+          className="backBtnNotActive"
+          href="/"
+          onClick={[Function]}
+        >
+          <span />
+        </a>
+      </div>
+      <h1>
+        Countries's COVID-19 Data
+      </h1>
+      <div
+        className="icons"
+      >
+        <span />
+        <span />
+      </div>
+    </nav>
+  </header>,
+  <div>
+    <div
+      className="details"
+    >
+      <span />
+      <div
+        className="detailsL"
+      >
+        <p
+          className="Countries countriesAmount"
+        />
+        <p
+          className="countriesAmount"
+        >
+          <span />
+           
+          cases
+        </p>
+      </div>
+    </div>
+    <div
+      className="searchSection"
+    >
+      <h2>
+        Search By
+         
+        Country
+      </h2>
+      <input
+        className="countryInput"
+        onChange={[Function]}
+        placeholder="Type to Search by Country"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="countriesList"
+    />
+  </div>,
+]
+`;
